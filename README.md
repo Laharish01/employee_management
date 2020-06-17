@@ -1,1 +1,1 @@
-An employee appraisal and managem website
+An employee appraisal and management website
